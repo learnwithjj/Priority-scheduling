@@ -7,7 +7,7 @@ Consider 4 processors.
  burst time={10,4,5,3}
 
 | p2  | p1  | p4  | p3  |
-0     4     14    17    22
+0  -  4  -  14  - 17  - 22
 
 Turn around time=completion time - arrival time
 Waiting time= turn around time - burst time
